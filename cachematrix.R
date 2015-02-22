@@ -1,5 +1,6 @@
 ## Put comments here that give an overall description of what your
-## functions do
+## functions do 
+##
 
 ## Function for creating matrix object, with following functions:
 ##    set(x) , function to set a new matrix // x - a matrix object
